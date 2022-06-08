@@ -79,9 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   TecketPSA Development.
+                    Laravel to Tecket.
                 </div>
-
             </div>
         </div>
     </body>
